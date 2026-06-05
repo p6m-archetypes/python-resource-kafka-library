@@ -1,0 +1,14 @@
+---
+description: "Python Kafka Messaging — async Kafka producer module for uv services"
+summary: >
+  Generates a messaging package with an async Kafka producer (aiokafka).
+  Consumed as a library by Python service archetypes.
+authors: ["Jimmie Fulton <jimmie@ybor.ai>"]
+tags: ["library", "python", "messaging", "kafka", "aiokafka"]
+
+requires:
+  archetect: "3.0.0"
+
+templating:
+  trim_blocks: true
+  lstrip_blocks: true
